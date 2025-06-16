@@ -256,7 +256,7 @@ def get_imports_info(imports, pypi_server="https://pypi.python.org/pypi/", proxy
             data.latest_release_id,
             data.pypi_url,
         )
-        result.append({"name": item, "version": data.latest_release_id})
+        result.append({"name": data.name, "version": data.latest_release_id})
     return result
 
 
