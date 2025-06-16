@@ -1058,6 +1058,7 @@ sphinxcontrib:sphinxcontrib_programoutput
 sqlalchemy:SQLAlchemy
 src:atlas
 src:auto_mix_prep
+sseclient:sseclient-py
 stats_toolkit:bw_stats_toolkit
 statsd:dogstatsd_python
 stdnum:python_stdnum
@@ -1109,6 +1110,7 @@ twisted:Twisted
 twitter:python_twitter
 txclib:transifex_client
 u115:115wangpan
+umap:umap-learn
 unidecode:Unidecode
 universe:ansible_universe
 usb:pyusb
