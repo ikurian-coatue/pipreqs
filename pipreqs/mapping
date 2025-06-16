@@ -611,6 +611,7 @@ djorm_pgarray:djorm_ext_pgarray
 dns:dnspython
 docgen:ansible_docgenerator
 docker:docker_py
+docx:python-docx
 dogpile:dogpile.cache
 dogpile:dogpile.core
 dogshell:dogapi
@@ -623,6 +624,7 @@ dsml:python_ldap
 durationfield:django_durationfield
 dzclient:datazilla
 easybuild:easybuild_framework
+edgar:edgartools
 editor:python_editor
 elasticluster:azure_elasticluster
 elasticluster:azure_elasticluster_current
@@ -642,6 +644,7 @@ examples:tweepy
 ez_setup:pycassa
 fabfile:Fabric
 fabric:Fabric
+faiss:faiss-cpu
 faker:Faker
 fdpexpect:pexpect
 fedora:python_fedora
@@ -841,6 +844,7 @@ path:forked_path
 path:path.py
 patricia:patricia-trie
 paver:Paver
+pdfminer:pdfminer-six
 peak:ProxyTypes
 picasso:anderson.picasso
 picklefield:django-picklefield
@@ -960,6 +964,7 @@ pykka:Pykka
 pylogo:PyLogo
 pylons:adhocracy_Pylons
 pymagic:libmagic
+pymarkdown:pymarkdownlnt
 pymycraawler:Amalwebcrawler
 pynma:AbakaffeNotifier
 pyphen:Pyphen
@@ -975,6 +980,7 @@ pysynth_e:PySynth
 pysynth_p:PySynth
 pysynth_s:PySynth
 pysynth_samp:PySynth
+python_dateutil:python-dateutil
 pythongettext:python_gettext
 pythonjsonlogger:python_json_logger
 pyutilib:PyUtilib
@@ -1115,6 +1121,7 @@ uwsgidecorators:uWSGI
 valentine:ab
 validate:configobj
 version:chartio
+vertexai:google-cloud-aiplatform
 virtualenvapi:ar_virtualenv_api
 vyatta:brocade_plugins
 webdav:Zope2
