@@ -586,7 +586,7 @@ curl:pycurl
 cv2:opencv-python
 daemon:python_daemon
 dare:DARE
-dateutil:python_dateutil
+dateutil:python-dateutil
 dawg:DAWG
 deb822:python_debian
 debian:python_debian
@@ -980,7 +980,6 @@ pysynth_e:PySynth
 pysynth_p:PySynth
 pysynth_s:PySynth
 pysynth_samp:PySynth
-python_dateutil:python-dateutil
 pythongettext:python_gettext
 pythonjsonlogger:python_json_logger
 pyutilib:PyUtilib
